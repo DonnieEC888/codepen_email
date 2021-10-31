@@ -2,5 +2,13 @@
 body,
 html, 
 .body {
-  background: #f3f3f3 !important;
+  background: #f2f4f6 !important;
+}
+
+.header {
+  background: #000000 !important;
+
+  .header__image {
+    padding-top: 10px;
+  }
 }
